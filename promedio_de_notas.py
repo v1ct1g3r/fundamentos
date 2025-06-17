@@ -18,6 +18,8 @@ while True:
     print(f"El promedio de las notas de {nombre} es {promedio}")
     
     salida = input("¿Desea calcular el promedio de otro estudiante? (S/N): ").upper()
+    while salida != "S" and salida != "N":
+        salida = input("¿Desea calcular el promedio de otro estudiante? (S/N): ").upper()
     if salida == "S":
         continue
     elif salida == "N":

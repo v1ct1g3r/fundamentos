@@ -5,4 +5,4 @@ max_par = numeros[0]
 for i in range(1, len(numeros)):
     if numeros[i] > max_par and numeros[i] % 2 == 0:
         max_par = numeros[i]
-print(f"El mayor número par está en la posición {numeros.index(max_par)} (del 0 al 9)")
+print(f"El mayor número par está en la posición {numeros.index(max_par)} (del 0 al 9).")

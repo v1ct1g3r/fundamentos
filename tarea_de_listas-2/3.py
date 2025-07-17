@@ -21,6 +21,6 @@ if max_num != "n/a":
     for i in range(1, len(numeros)):
         if es_primo(numeros[i]) and numeros[i] > max_num:
             max_num = numeros[i]
-    print(f"El mayor número primo está en la posición {numeros.index(max_num)} (del 0 al 9)")
+    print(f"El mayor número primo está en la posición {numeros.index(max_num)} (del 0 al 9).")
 else:
-    print("No se ingresó ningún número primo")
+    print("No se ingresó ningún número primo.")

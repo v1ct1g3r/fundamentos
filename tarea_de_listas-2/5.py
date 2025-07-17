@@ -21,6 +21,6 @@ for num in numeros:
         digitos_pares_por_numero.append(-1)
 
 if all(x == -1 for x in digitos_pares_por_numero):
-    print("No se ingresó ningún número primo")
+    print("No se ingresó ningún número primo.")
 else:
-    print(f"El número primo con mayor cantidad de dígitos pares está en la posición {digitos_pares_por_numero.index(max(digitos_pares_por_numero))} (del 0 al 9)")
+    print(f"El número primo con mayor cantidad de dígitos pares está en la posición {digitos_pares_por_numero.index(max(digitos_pares_por_numero))} (del 0 al 9).")

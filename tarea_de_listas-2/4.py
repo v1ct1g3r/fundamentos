@@ -13,4 +13,4 @@ total = 0
 for num in numeros:
     if es_primo(int(num[0])):
         total += 1
-print(f"Hay {total} números que comienzan en dígito primo")
+print(f"Hay {total} números que comienzan en dígito primo.")

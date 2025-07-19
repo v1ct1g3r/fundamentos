@@ -1,4 +1,4 @@
-"""3. Leer 10 enteros, almacenarlos en una lista y determinar en qué posición del arreglo está el mayor número primo leído."""
+""" 3. Leer 10 enteros, almacenarlos en una lista y determinar en qué posición del arreglo está el mayor número primo leído."""
 
 def es_primo(n):
     if n < 2:

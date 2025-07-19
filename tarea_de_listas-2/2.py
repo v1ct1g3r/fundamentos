@@ -1,4 +1,4 @@
-"""2. Leer 10 enteros, almacenarlos en una lista y determinar en qué posición del arreglo está el mayor número par leído."""
+""" 2. Leer 10 enteros, almacenarlos en una lista y determinar en qué posición del arreglo está el mayor número par leído."""
 
 numeros = list(map(int, input("Ingrese 10 enteros separados por espacios: ").split()))
 for num in numeros:

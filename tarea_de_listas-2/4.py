@@ -1,4 +1,4 @@
-"""4. Leer 10 números enteros, almacenarlos en una lista y determinar cuántos números de los almacenados en dicho arreglo comienzan en dígito primo."""
+""" 4. Leer 10 números enteros, almacenarlos en una lista y determinar cuántos números de los almacenados en dicho arreglo comienzan en dígito primo."""
 
 def es_primo(n):
     if n < 2:

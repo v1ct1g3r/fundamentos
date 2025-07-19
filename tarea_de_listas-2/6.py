@@ -1,4 +1,4 @@
-"""6. Leer 10 números enteros, almacenarlos en una lista y determinar en qué posiciones se encuentran los números con más de 3 dígitos."""
+""" 6. Leer 10 números enteros, almacenarlos en una lista y determinar en qué posiciones se encuentran los números con más de 3 dígitos."""
 
 numeros = input("Ingrese 10 enteros separados por espacios: ").split()
 posiciones = []

@@ -1,4 +1,4 @@
-"""9. Leer 10 números enteros, almacenarlos en una lista y calcular la factorial a cada uno de los números leídos almacenándolos en otra lista."""
+""" 9. Leer 10 números enteros, almacenarlos en una lista y calcular la factorial a cada uno de los números leídos almacenándolos en otra lista."""
 
 def factorial(n):
     if n < 0:

@@ -1,4 +1,4 @@
-"""5. Leer 10 números enteros, almacenarlos en una lista y determinar en qué posición se encuentra el número primo con mayor cantidad de dígitos pares."""
+""" 5. Leer 10 números enteros, almacenarlos en una lista y determinar en qué posición se encuentra el número primo con mayor cantidad de dígitos pares."""
 
 def es_primo(n):
     if n < 2:
